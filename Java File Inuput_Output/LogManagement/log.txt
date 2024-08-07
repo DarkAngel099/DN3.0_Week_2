@@ -1,0 +1,3 @@
+Log Message 1: Application started.
+Log Message 2: User logged in.
+Log Message 3: User performed an action.
